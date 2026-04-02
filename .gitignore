@@ -1,0 +1,9 @@
+# Ignore the file containing the API Keys
+config.py
+
+# Ignore Python cache folders
+__pycache__/
+*.py[cod]
+
+# Ignore local environment settings
+.env
