@@ -1,2 +1,2 @@
 # EEL4599-Final-Project
-Help read the temperature on the pico and transfer it into Thingspeak. 
+In this project, temperature sensors are connected to an Arduino Uno to acquire data, which is then transmitted via XBee to ThingSpeak.
